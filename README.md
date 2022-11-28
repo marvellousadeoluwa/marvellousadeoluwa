@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @marvellousadeoluwa
-- 👀 I’m interested in Machine Learning and Data Science services
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, My name is Marvellous Alabi
+- 👀 I am into Machine Learning and Data Analytics
+- 🌱 I’m currently a Computer Science Major
+- - 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me ...
 
 <!---
