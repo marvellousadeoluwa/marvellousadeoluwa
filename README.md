@@ -1,6 +1,7 @@
 - 👋 Hi, My name is Marvellous Alabi
 - 👀 I am into Machine Learning, Data Analytics, RestFul API with Golang (sound interesting to me)
 - 🌱 A Computer Science BTech holder.
+- 🖥️ Python, SQL, Power BI,Tableau Excel, -- Tensorflow, Pytorch, ...
 - - 💞️ I’m looking forward to any help, mentorship, collaboration, internship or employement. Thank youbfir stopping by.
 
 <!---
